@@ -1,26 +1,60 @@
-# Hi there! 👋 I'm Iqra Ejaz  
+🚀 About Me
+I'm a passionate Python Developer with advanced skills in game development and backend technologies. Currently pursuing BS IT at Agricultural University Faisalabad, I've built engaging games and applications with:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=500&lines=Python+Developer+🐍;Backend+Developer+⚡;Game+Developer+🎮;Problem+Solver+🧩)](https://git.io/typing-svg)
+🎮 Multiple games using Pygame with engaging gameplay
 
----
+🎯 Expertise in Python, Django, and SQL databases
 
-## 💫 About Me  
-I'm a passionate **Python Developer** with advanced skills in **game development** and **backend technologies**.  
-Currently pursuing **BS IT** at Agricultural University Faisalabad.  
+🌟 Advanced problem-solving skills and clean code practices
 
-- 🚀 Built multiple games using **Pygame** with engaging gameplay  
-- 🎯 Expertise in **Python, Django, and SQL databases**  
-- 🌟 Strong problem-solving & clean coding practices  
-- 💡 Solid background in both **game development** and **backend solutions**  
-- 🧬 Currently exploring **Database Optimization & REST APIs**  
+💡 Strong background in both game development and backend solutions
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*  
+📱 Passionate about creating seamless user experiences
 
----
+🧬 Currently learning Django and Database Optimization
 
-## 👩‍💻 Here's a bit about me in code  
+"Code is like humor. When you have to explain it, it's bad." – Cory House
 
-```python
+💻 Tech Stack & Tools
+Programming Languages
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
+
+Frameworks & Libraries
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+
+Databases
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+
+Tools & Technologies
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+🎮 Featured Projects
+<div align="center">
+Project	Description	Technologies
+🐍 Snake Game	Classic snake with modern UI	Python Pygame
+🏔️ Hill Climb Racing	Physics-based racing game	Python Pygame
+💎 Treasure Hunt	Adventure puzzle game	Python Pygame
+</div>
+📊 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=iqra-ejaz&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=iqra-ejaz&layout=compact&theme=radical
+
+</div>
+👩‍💻 Code Snapshot
+python
 class AboutMe:
     def __init__(self):
         self.current_role = "Python Developer & BS IT Student"
@@ -32,22 +66,19 @@ class AboutMe:
         self.experience = {
             "Python": "Advanced",
             "Pygame": "Good", 
-            "Django": "Learning",
-            "SQL": "Learning"
+            "Django": "Learning"
         }
     
     def get_fun_fact(self):
         return "I turn coffee into code and ideas into reality! ☕🚀"
-🛠️ Languages and Tools
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> </p>
-🎮 Featured Games
-🐍 Snake Game – Classic snake with modern UI (Python, Pygame)
 
-🏔️ Hill Climb Racing – Physics-based racing game (Python, Pygame)
+# Creating my instance
+iqra = AboutMe()
+print(iqra.get_fun_fact())
+<div align="center">
+📫 Let's Connect!
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-💎 Treasure Hunt – Adventure puzzle game (Python, Pygame)
-
-👩 Character
-<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coder Girl working on laptop"/>
-📊 My GitHub Stats
-
+⭐️ From Iqra Ejaz
