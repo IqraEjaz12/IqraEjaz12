@@ -9,10 +9,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ## 💫 About Me  
 - 🎓 **BS IT Student** at Agricultural University Faisalabad  
 - 🐍 **Advanced Python Developer** with passion for clean code  
@@ -25,29 +21,16 @@
 - 🚀 Love building solutions that make a difference
 - ✨ **Fun fact:** I turn coffee into code and ideas into reality!
 
-</td>
-<td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="200" alt="Woman Technologist"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="100%"/>
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
-  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
 
 ---
 
@@ -86,23 +69,17 @@ print(iqra.say_hi())
 
 ## 🎮 Featured Projects
 
-<div align="center">
-  
 | 🐍 Snake Game | 🏔️ Hill Climb Racing | 💎 Treasure Hunt |
 |:---:|:---:|:---:|
 | Classic snake with modern twist | Physics-based racing game | Adventure puzzle game |
 | `Python` `Pygame` | `Python` `Pygame` | `Python` `Pygame` |
 
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IqraEjaz12&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IqraEjaz12&layout=compact&langs_count=7&theme=radical)
 
 ---
 
@@ -119,18 +96,14 @@ print(iqra.say_hi())
 
 ## 🤝 Let's Connect!
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iqra-ejaz)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IqraEjaz12)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqraejaz2004@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=IqraEjaz12&color=ff69b4&style=flat-square" alt="Profile Views"/>
   <br/>
   <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
   <br/><br/>
@@ -139,4 +112,4 @@ print(iqra.say_hi())
 
 ---
 
-⭐ From [IqraEjaz](https://github.com/YOUR_USERNAME)
+⭐ From [IqraEjaz12](https://github.com/IqraEjaz12)
