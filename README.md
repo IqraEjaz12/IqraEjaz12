@@ -1,122 +1,66 @@
-# Hi there! 👋 I'm Iqra Ejaz  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=500&lines=Python+Developer+🐍;Backend+Developer+⚡;Game+Developer+🎮;Problem+Solver+🧩;Tech+Enthusiast+💻)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Iqra Ejaz</h1>
+<h3 align="center">A passionate Python Developer from Pakistan 🇵🇰</h3>
 
----
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## 💫 About Me  
-- 🎓 **BS IT Student** at Agricultural University Faisalabad  
-- 🐍 **Advanced Python Developer** with passion for clean code  
-- 🎮 **Game Developer** - Built engaging games with Pygame  
-  - 🐍 Snake Game with modern UI
-  - 🏔️ Hill Climb Racing clone
-  - 💎 Interactive Treasure Hunt game
-- 🌱 Currently mastering **Django & SQL** for web development
-- ⚡ Passionate about **Backend Development & Automation**
-- 🚀 Love building solutions that make a difference
-- ✨ **Fun fact:** I turn coffee into code and ideas into reality!
-
-</td>
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding Girl Animation"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IqraEjaz12&show_icons=true&theme=radical" width="100%"/>
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## ⚡ Here's a bit about me in code  
-```python
-class IqraEjaz:
-    def __init__(self):
-        self.name = "Iqra Ejaz"
-        self.role = "Python Developer | BS IT Student"
-        self.location = "Faisalabad, Pakistan"
-        self.education = "Agricultural University Faisalabad"
-        
-        self.skills = {
-            "languages": ["Python", "SQL"],
-            "frameworks": ["Django (Learning)", "Pygame"],
-            "databases": ["PostgreSQL (Learning)", "SQLite"],
-            "tools": ["Git", "VS Code", "PyCharm"],
-            "specialties": ["Backend Development", "Game Development", "Automation"]
-        }
-        
-        self.current_focus = ["Django Web Development", "Database Design", "API Development"]
-        self.interests = ["Problem Solving", "Clean Code", "User Experience"]
-    
-    def say_hi(self):
-        return "Thanks for dropping by! Let's build something amazing together! 🚀"
-    
-    def fun_fact(self):
-        return "I debug code like a detective and create games like an artist! 🎨👩‍💻"
-
-# Initialize
-iqra = IqraEjaz()
-print(iqra.say_hi())
-```
-
----
-
-## 🎮 Featured Projects
-
-| 🐍 Snake Game | 🏔️ Hill Climb Racing | 💎 Treasure Hunt |
-|:---:|:---:|:---:|
-| Classic snake with modern twist | Physics-based racing game | Adventure puzzle game |
-| `Python` `Pygame` | `Python` `Pygame` | `Python` `Pygame` |
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IqraEjaz12&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IqraEjaz12&layout=compact&langs_count=7&theme=radical)
-
----
-
-## 🌟 What I'm Up To
-
-- 🔭 Currently working on **Django web applications**
-- 🌱 Learning **advanced SQL** and **database optimization**
-- 👯 Looking to collaborate on **Python projects** and **open source**
-- 🤔 Exploring **API development** and **backend architecture**
-- 💬 Ask me about **Python, Pygame, or problem-solving approaches**
-- ⚡ Goal: Contributing to projects that make technology accessible
-
----
-
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iqra-ejaz)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IqraEjaz12)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqraejaz2004@gmail.com)
-
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqraejaz12&label=Profile%20views&color=0e75b6&style=flat" alt="iqraejaz12" /> </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IqraEjaz12&color=ff69b4&style=flat-square" alt="Profile Views"/>
-  <br/>
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-  <br/><br/>
-  <b>Thanks for visiting! Happy coding! 💻✨</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Python+Developer+🐍;Game+Developer+🎮;Backend+Developer+⚡;Problem+Solver+🧩;BS+IT+Student+📚" alt="Typing SVG" />
 </div>
 
----
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-⭐ From [IqraEjaz12](https://github.com/IqraEjaz12)
+- 🔭 I'm currently working on **Django Web Applications**
+
+- 🌱 I'm currently learning **Django, SQL & Database Design**
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/IqraEjaz12)
+
+- 💬 Ask me about **Python, Pygame, Django**
+
+- 📫 How to reach me **iqraejaz2004@gmail.com**
+
+- 🎓 **BS IT Student** at Agricultural University Faisalabad
+
+- ⚡ Fun fact **I turn coffee into code and ideas into reality! ☕💻**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/iqra-ejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqra-ejaz" height="30" width="40" /></a>
+<a href="mailto:iqraejaz2004@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="iqraejaz2004@gmail.com" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.pygame.org/news" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pygame" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">🎮 Featured Games:</h3>
+<div align="left">
+  
+| 🐍 Snake Game | 🏔️ Hill Climb Racing | 💎 Treasure Hunt |
+|:---:|:---:|:---:|
+| Classic snake with modern UI | Physics-based racing game | Adventure puzzle game |
+| `Python` `Pygame` | `Python` `Pygame` | `Python` `Pygame` |
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqraejaz12&show_icons=true&locale=en&theme=radical" alt="iqraejaz12" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iqraejaz12&show_icons=true&locale=en&layout=compact&theme=radical" alt="iqraejaz12" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqraejaz12&theme=radical" alt="iqraejaz12" />
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=iqraejaz12&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" />
+</div>
