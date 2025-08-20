@@ -1,21 +1,25 @@
-# Hi there! 👋 I'm Iqra Ejaz
+# Hi there! 👋 I'm Iqra Ejaz  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqraejaz12&label=Profile%20views&color=ff69b4&style=flat" alt="iqraejaz12" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=500&lines=Python+Developer+🐍;Backend+Developer+⚡;Game+Developer+🎮;Problem+Solver+🧩)](https://git.io/typing-svg)
 
-I'm a passionate **Python Developer** with advanced skills in game development and backend technologies. Currently pursuing **BS IT** at Agricultural University Faisalabad, I've had the privilege of building engaging games and applications. My journey includes:
+---
 
-- 🚀 Built multiple games using **Pygame** with engaging gameplay
-- 🎯 Expertise in **Python, Django,** and **SQL databases**  
-- 🌟 Advanced problem-solving skills and clean code practices
-- 💡 Strong background in both **game development** and **backend solutions**
-- 📱 Passionate about creating seamless user experiences
-- 🧬 Currently learning **Django** and **Database Optimization**
+## 💫 About Me  
+I'm a passionate **Python Developer** with advanced skills in **game development** and **backend technologies**.  
+Currently pursuing **BS IT** at Agricultural University Faisalabad.  
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+- 🚀 Built multiple games using **Pygame** with engaging gameplay  
+- 🎯 Expertise in **Python, Django, and SQL databases**  
+- 🌟 Strong problem-solving & clean coding practices  
+- 💡 Solid background in both **game development** and **backend solutions**  
+- 🧬 Currently exploring **Database Optimization & REST APIs**  
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*  
 
-## Here's a bit about me in code:
+---
+
+## 👩‍💻 Here's a bit about me in code  
+
 ```python
 class AboutMe:
     def __init__(self):
@@ -28,34 +32,22 @@ class AboutMe:
         self.experience = {
             "Python": "Advanced",
             "Pygame": "Good", 
-            "Django": "Learning"
+            "Django": "Learning",
+            "SQL": "Learning"
         }
     
     def get_fun_fact(self):
         return "I turn coffee into code and ideas into reality! ☕🚀"
-```
+🛠️ Languages and Tools
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> </p>
+🎮 Featured Games
+🐍 Snake Game – Classic snake with modern UI (Python, Pygame)
 
-## 🛠️ Languages and Tools:
+🏔️ Hill Climb Racing – Physics-based racing game (Python, Pygame)
 
-| ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) | ![Git](https://skillicons.dev/icons?i=git) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![SQLite](https://skillicons.dev/icons?i=sqlite) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Python | Django | PostgreSQL | Git | VSCode | SQLite |
+💎 Treasure Hunt – Adventure puzzle game (Python, Pygame)
 
-## 🎮 Featured Games:
+👩 Character
+<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coder Girl working on laptop"/>
+📊 My GitHub Stats
 
-| 🐍 **Snake Game** | 🏔️ **Hill Climb Racing** | 💎 **Treasure Hunt** |
-|:---:|:---:|:---:|
-| Classic snake with modern UI | Physics-based racing game | Adventure puzzle game |
-| `Python` `Pygame` | `Python` `Pygame` | `Python` `Pygame` |
-
-<div align="center">
-
-## 📊 My GitHub Stats:
-
-![Iqra's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqraejaz12&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqraejaz12&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iqraejaz12&theme=radical)
-
-</div>
