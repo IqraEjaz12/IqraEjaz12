@@ -21,7 +21,7 @@
 
 </td>
 <td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="200" alt="Woman Technologist" style="background: transparent;"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding Girl Animation"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=IqraEjaz12&show_icons=true&theme=radical" width="100%"/>
 </td>
