@@ -6,7 +6,7 @@
 
 I'm a passionate **Python Developer** with advanced skills in game development and backend technologies. Currently pursuing **BS IT** at Agricultural University Faisalabad, I've had the privilege of building engaging games and applications. My journey includes:
 
-<img align="right" alt="Female Coder" width="350" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c4f87639618041d64ce7d9750f5e5c4c4b4b45d5f7a6ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
+<img align="right" alt="Female Coder" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🚀 Built multiple games using **Pygame** with engaging gameplay
 - 🎯 Expertise in **Python, Django,** and **SQL databases**  
