@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Iqra Ejaz
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=500&lines=Python+Developer+🐍;Game+Developer+🎮;Backend+Developer+⚡;Problem+Solver+🧩;BS+IT+Student+📚)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqraejaz12&label=Profile%20views&color=ff69b4&style=flat" alt="iqraejaz12" /> </p>
 
 I'm a passionate **Python Developer** with advanced skills in game development and backend technologies. Currently pursuing **BS IT** at Agricultural University Faisalabad, I've had the privilege of building engaging games and applications. My journey includes:
@@ -11,7 +13,7 @@ I'm a passionate **Python Developer** with advanced skills in game development a
 - 📱 Passionate about creating seamless user experiences
 - 🧬 Currently learning **Django** and **Database Optimization**
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="background: transparent; border: none; box-shadow: none;">
+<img align="right" alt="Coding Girl" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
