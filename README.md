@@ -13,7 +13,7 @@ I'm a passionate **Python Developer** with advanced skills in game development a
 - 📱 Passionate about creating seamless user experiences
 - 🧬 Currently learning **Django** and **Database Optimization**
 
-<img align="right" alt="Coding Girl" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="margin-top: -20px;">
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
