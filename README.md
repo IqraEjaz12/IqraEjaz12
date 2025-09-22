@@ -8,12 +8,12 @@ I'm a passionate**Python Developer** with advanced skills in game development an
 
 <img align="right" alt="Female Coder" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🚀 Built multiple games using**Pygame** with engaging gameplay
-- 🎯 Expertise in **Python, Django,** and **SQL databases**  
+- 🚀 Built multiple games using **Pygame**  with engaging gameplay
+- 🎯 Expertise in  **Python, Django,**  and  **SQL databases**  
 - 🌟 Advanced problem-solving skills and clean code practices
-- 💡 Strong background in both **game development** and **backend solutions**
+- 💡 Strong background in both  **game development**  and  **backend solutions**
 - 📱 Passionate about creating seamless user experiences
-- 🧬 Currently learning **Django**and**Database Optimization**
+- 🧬 Currently learning  **Django**and **Database Optimization**
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
