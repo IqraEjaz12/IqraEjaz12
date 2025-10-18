@@ -11,7 +11,7 @@ I'm a passionate **Python Developer** with advanced skills in game development a
 - 🚀 Built multiple games using**Pygame** with engaging gameplay
 - 🎯 Expertise in  **Python, Django,**    and **SQL databases**  
 - 🌟 Advanced problem-solving skills and clean code practices
-- 💡 Strong background in both **game development** and **backend solutions**
+- 💡 Strong background in both  **game development**  and  **backend solutions**
 - 📱 Passionate about creating seamless user experiences
 - 🧬 Currently learning  **Django** and **Database Optimization**
 
